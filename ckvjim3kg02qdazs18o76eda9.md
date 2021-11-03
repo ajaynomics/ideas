@@ -31,7 +31,7 @@ __Standups are intended to set a 'floor' for communication, but they often set a
 
 Show up for 15 minutes, and then it’s safe to hide for the rest of the day. This may or may not be a problem given the economics of the business in which a software team operates. Many businesses don’t want to pay the premium that attracts employees with an ownership mindset sufficient to unlock the benefits of asynchronous collaboration. If that describes your situation, keep the standup&mdash;if the stick is a deliberate part of the model, that’s fine by me. 
 
-### If you’re weary of a future without standups, you need to _Shape Up_
+### If you’re wary of a future without standups, you need to _Shape Up_
 But if you’re part of the group that just ‘knows’ standups are a good thing, I ask you to consider making yourselves uncomfortable. Experiment with fewer standups. Empower decentralized decision making. Back it up with centralized control. Just like Alfred Sloan did at GM. 
 
 Ryan Singer has reduced this argument to a fantastic and practical playbook in [Shape Up](https://www.basecamp.com/shapeup), which continues to grow in influence. In my view, Singer has unlocked the software development equivalent of Alfred Sloan’s ‘phase three’ management system: it’s a framework for better human communication, grounded in the context of creating software, and unburdened by the legacy of internet access through a dial-up modem.
